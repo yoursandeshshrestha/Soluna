@@ -1,5 +1,3 @@
-<h1 align="center">✨ Soluna | Video Calling Interview Platform ✨</h1>
-
 Highlights:
 
 - 🚀 Tech stack: Next.js & TypeScript, Stream, Convex, Clerk
