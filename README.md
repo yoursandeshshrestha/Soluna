@@ -1,28 +1,28 @@
 # Soluna
 
 ## 🌟 Overview
-Soluna is a cutting-edge platform designed for seamless online meetings, interviews, and collaborative sessions. Built on modern web technologies, Soluna offers a streamlined, user-centric interface with real-time features tailored for professionals and teams.
 
-## ✨ Features
+Soluna is a cutting-edge technical interview platform designed to streamline the hiring process by facilitating seamless interviews. Equipped with an integrated coding panel supporting multiple programming languages, Soluna provides real-time collaboration and tools tailored for an exceptional interview experience for both hiring teams and candidates.
 
-- **Effortless Meeting Management**: Schedule, manage, and join meetings with an intuitive interface.
-- **Real-Time Collaboration**: Share ideas and code with live editing and comment capabilities.
-- **Secure Authentication**: Leverages Clerk and Convex for reliable user management.
-- **Theming Support**: Enjoy light and dark modes for a personalized experience.
-- **Modular Design**: Scalable architecture built with reusable components.
-- **Responsive UI**: Mobile-first design powered by Tailwind CSS.
+## 🚀 Features
+
+- **Real-Time Collaboration**: Enable interviewers and candidates to work together with live coding sessions.
+- **Multi-Language Support**: Supports a wide range of programming languages to accommodate diverse technical needs.
+- **Intuitive Interface**: A user-friendly design ensures both interviewers and candidates can focus on the assessment.
+- **Integrated Interview Tools**: Includes features such as question banks, code review, and scoring.
+- **Scalable Architecture**: Designed for small startups to large enterprises with varying hiring needs.
+- **Responsive Design**: Optimized for desktop and mobile devices for convenience.
 
 ## 🛠️ Tech Stack
 
 ### Frontend
-- **Framework**: React with Next.js for SSR and SSG.
-- **Styling**: Tailwind CSS for rapid UI development.
-- **State Management**: Context API for global state.
-- **Type Safety**: TypeScript for enhanced developer experience.
+- **Framework**: React with Next.js.
+- **Styling**: Tailwind CSS for a modern, responsive design.
+- **Type Safety**: TypeScript for robust and maintainable code.
 
 ### Backend
-- **Platform**: Convex for serverless backend and database operations.
-- **Authentication**: Clerk for secure, out-of-the-box user management.
+- **Platform**: Convex for serverless backend operations.
+- **Authentication**: Clerk for secure user management.
 
 ### Tooling
 - **Package Manager**: npm.
